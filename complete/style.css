@@ -1,0 +1,43 @@
+body {
+  background-color: #EEE;
+}
+
+.container {
+  margin: 0 auto;
+  width: 600px;
+}
+
+input {
+  border: none;
+  font-size: 2em;
+  padding: 5px 0;
+  width: 100%;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  background-color: #BBB;
+  border: solid 1px #666;
+  border-radius: 10px;
+  font-family: Helvetica, sans-serif;
+  list-style-type: none;
+  margin: 2% 0;
+  padding: 2%;
+  position: relative;
+  vertical-align: middle;
+}
+
+img {
+  width: 100px;
+}
+
+span {
+  bottom: 29px;
+  color: #999;
+  font-size: 4em;
+  left: 125px;
+  position: absolute;
+}
