@@ -12,4 +12,4 @@ There is a working copy of the page in the `complete` folder in this repository.
 
 ## The Iron Yard
 
-Want to learn more? We cover this and a whole lot more in our [Dallas Front-End Engineering course](https://www.theironyard.com/locations/dallas.html). It's a twelve-week intensive course designed to give you a kick-start into a new career. If you want more information about our campus or courses [you can visit our website](https://www.theironyard.com/locations/dallas.html). If you have questions or want more information, you can email us at <dallas@theironyard.com>.
+Want to learn more? We cover this in much greater detail as well as source control, how to use the terminal, life as a developer, and a whole lot more in our [Dallas Front-End Engineering course](https://www.theironyard.com/locations/dallas.html). It's a twelve-week intensive course designed to give you a kick-start into a new career. If you want more information about our campus or courses [you can visit our website](https://www.theironyard.com/locations/dallas.html). If you have questions or want more information, you can email us at <dallas@theironyard.com>.
