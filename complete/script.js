@@ -10,11 +10,10 @@ function keyUpHappened(evt) {
 
 
 function loadData(name) {
-  console.log(name);
   $.ajax('https://api.github.com/users/' + name + '/orgs')
     .done(function(data) {
-      console.log('data', data);
       orgList.innerHTML = '';
+      input.value = '';
 
       for (var org of data) {
         var li = document.createElement('li');
@@ -28,14 +27,8 @@ function loadData(name) {
         li.appendChild(span);
 
         orgList.appendChild(li);
-        console.log('adding', li);
       }
     });
 }
 
 input.addEventListener('keyup', keyUpHappened);
-
-
-
-
-console.log(orgList);
